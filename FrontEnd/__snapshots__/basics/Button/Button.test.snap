@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should render a primary button with Button text 1`] = `
+<button
+  class="button primary solid"
+>
+  Button text
+</button>
+`;
+
+exports[`Button should render a secondary button with Button text 1`] = `
+<button
+  class="button secondary solid"
+>
+  Button text
+</button>
+`;
