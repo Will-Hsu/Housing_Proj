@@ -1,4 +1,4 @@
-# Homehub frontend baby let's gooo
+Í# Homehub frontend baby let's gooo
 
 Homehub helps students find housing and roommates. Check it out at http://homehubdope.com/ !
 
@@ -26,8 +26,8 @@ Need to run this before running the `start` script.
 Runs `next start` which starts a Next.js **production** server. <br />
 Need to run the `build` script before running this.
 
-
 ## VSCode Plugins we use (download this)
+
 - **ESLint**: linter for the code to unify styles.
 - **Prettier**: formatter for the code.
 - **Prettier** ESLint
@@ -37,6 +37,7 @@ Need to run the `build` script before running this.
 Basically all code should go in the `src` folder.
 
 The subfolders of `src` are aptly named:
+
 - Components should go in `components` and commonly used components (i.e. Button) should go in `components/basics`
 - APIs in `apis`
 - Icons in `assets/icons`
