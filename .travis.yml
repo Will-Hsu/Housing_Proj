@@ -17,4 +17,4 @@ matrix:
       install:
         - pip install -r config/requirements.txt
       script:
-        - python test.py
+        - python -m pytest tests/
